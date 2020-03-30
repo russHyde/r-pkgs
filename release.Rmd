@@ -26,7 +26,7 @@ If you've been following the advice in [versioning](#version), the version numbe
     fixed ASAP. Most releases will have a patch number of 0.
   
   * Increment `minor`, e.g. `0.9.0`, for a __minor release__. A minor 
-    release can include bug fixes, new features and changes in backward
+    release can include bug fixes, new features and changes that preserve backward
     compatibility. This is the most common type of release. It's perfectly fine to 
     have so many minor releases that you need to use two (or even three!) 
     digits, e.g. `1.17.0`.
